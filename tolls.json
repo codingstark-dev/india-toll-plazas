@@ -2451,7 +2451,7 @@
   "id": 5643,
   "name": "Jalouli",
   "state": "Haryana",
-  "district": "Yamunanagar",
+  "district": "Panchkula",
   "highway": "NH-73",
   "url": "https://raahguide.com/toll/jalouli-toll-plaza/"
  },
@@ -3307,7 +3307,7 @@
   "id": 5890,
   "name": "Hirehalli",
   "state": "Karnataka",
-  "district": null,
+  "district": "Chitradurga",
   "highway": "NH-150A",
   "url": "https://raahguide.com/toll/hirehalli-toll-plaza/"
  },
@@ -3450,8 +3450,8 @@
  {
   "id": 260,
   "name": "Laxmannath",
-  "state": "Karnataka",
-  "district": "Bangalore",
+  "state": "Odisha",
+  "district": "Baleshwar",
   "highway": "NH-16",
   "url": "https://raahguide.com/toll/laxmannath-toll-plaza/"
  },
@@ -3532,7 +3532,7 @@
   "name": "Neelamangala - Tumkur /Kulumepalya",
   "state": "Karnataka",
   "district": "Bangalore Rural",
-  "highway": "NH-844",
+  "highway": "NH-48",
   "url": "https://raahguide.com/toll/neelamangala-tumkur-kulumepalya-toll-plaza/"
  },
  {
@@ -3851,7 +3851,7 @@
   "id": 266,
   "name": "Bakoli",
   "state": "Madhya Pradesh",
-  "district": "Damoh",
+  "district": "Narsimhapur",
   "highway": "NH-26",
   "url": "https://raahguide.com/toll/bakoli-toll-plaza/"
  },
@@ -4083,7 +4083,7 @@
   "id": 403,
   "name": "Jaitpur",
   "state": "Madhya Pradesh",
-  "district": "Seoni",
+  "district": "Narsimhapur",
   "highway": "NH-547",
   "url": "https://raahguide.com/toll/jaitpur-toll-plaza/"
  },
@@ -5827,7 +5827,7 @@
   "id": 5704,
   "name": "Khamar",
   "state": "Odisha",
-  "district": "Cuttack",
+  "district": "Anugul",
   "highway": "NH-149",
   "url": "https://raahguide.com/toll/khamar-toll-plaza/"
  },
@@ -6243,7 +6243,7 @@
   "id": 133,
   "name": "Kurali",
   "state": "Punjab",
-  "district": "Sahibzada Ajit Singh Nagar",
+  "district": "Rupnagar",
   "highway": "NH-205",
   "url": "https://raahguide.com/toll/kurali-toll-plaza/"
  },
@@ -6315,7 +6315,7 @@
   "id": 4561,
   "name": "Paind",
   "state": "Punjab",
-  "district": "Barnala",
+  "district": "Patiala",
   "highway": "NH-52",
   "url": "https://raahguide.com/toll/paind-toll-plaza/"
  },
@@ -6330,8 +6330,8 @@
  {
   "id": 5746,
   "name": "Saini Majra",
-  "state": "Punjab",
-  "district": "Patiala",
+  "state": "Haryana",
+  "district": "Ambala",
   "highway": "NH-152",
   "url": "https://raahguide.com/toll/saini-majra-toll-plaza/"
  },
@@ -6684,7 +6684,7 @@
   "name": "Daulatpura",
   "state": "Rajasthan",
   "district": "Jaipur",
-  "highway": "NH-552",
+  "highway": "NH-48",
   "url": "https://raahguide.com/toll/daulatpura-toll-plaza/"
  },
  {
@@ -6740,7 +6740,7 @@
   "name": "Doli",
   "state": "Rajasthan",
   "district": "Barmer",
-  "highway": "NH-161A",
+  "highway": "NH-112",
   "url": "https://raahguide.com/toll/doli-toll-plaza/"
  },
  {
@@ -6979,7 +6979,7 @@
   "id": 5731,
   "name": "Khachrol",
   "state": "Rajasthan",
-  "district": "Bharatpur",
+  "district": "Bhilwara",
   "highway": "NH-758",
   "url": "https://raahguide.com/toll/khachrol-toll-plaza/"
  },
@@ -7051,7 +7051,7 @@
   "id": 456,
   "name": "Kishorpura",
   "state": "Rajasthan",
-  "district": "Kota",
+  "district": "Bundi",
   "highway": "NH-52",
   "url": "https://raahguide.com/toll/kishorpura-toll-plaza/"
  },
@@ -7395,7 +7395,7 @@
   "id": 4573,
   "name": "Nokhra",
   "state": "Rajasthan",
-  "district": "Jodhpur",
+  "district": "Bikaner",
   "highway": "NH-11",
   "url": "https://raahguide.com/toll/nokhra-toll-plaza/"
  },
@@ -7724,7 +7724,7 @@
   "name": "Tamdoli",
   "state": "Rajasthan",
   "district": "Nagaur",
-  "highway": "NH-112",
+  "highway": "NH-458",
   "url": "https://raahguide.com/toll/tamdoli-toll-plaza/"
  },
  {
@@ -7748,7 +7748,7 @@
   "name": "Thakri",
   "state": "Rajasthan",
   "district": "Ganganagar",
-  "highway": "NH-06",
+  "highway": "NH-911",
   "url": "https://raahguide.com/toll/thakri-toll-plaza/"
  },
  {
@@ -8915,7 +8915,7 @@
   "id": 4602,
   "name": "Amdi",
   "state": "Uttar Pradesh",
-  "district": "Unnao",
+  "district": "Azamgarh",
   "highway": "NH-28",
   "url": "https://raahguide.com/toll/amdi-toll-plaza/"
  },
@@ -8955,7 +8955,7 @@
   "id": 4590,
   "name": "Asroga",
   "state": "Uttar Pradesh",
-  "district": "Rae Bareli",
+  "district": "Sultanpur",
   "highway": "NH-56",
   "url": "https://raahguide.com/toll/asroga-toll-plaza/"
  },
@@ -9228,7 +9228,7 @@
   "name": "Dasna",
   "state": "Uttar Pradesh",
   "district": "Ghaziabad",
-  "highway": "NH-139",
+  "highway": null,
   "url": "https://raahguide.com/toll/dasna-5762-toll-plaza/"
  },
  {

@@ -23,6 +23,6 @@ Rates change every year on 1 April, so they aren't kept in this file. You can ge
 
 ## Source
 
-Compiled from NHAI's public toll information ([tis.nhai.gov.in](https://tis.nhai.gov.in)), last checked **9 Nov 2026**. Not affiliated with NHAI or the Government of India.
+Compiled from NHAI's public toll information ([tis.nhai.gov.in](https://tis.nhai.gov.in)), last checked **23 Nov 2026**. Not affiliated with NHAI or the Government of India.
 
 If you use this list, please link back to [raahguide.com](https://raahguide.com).

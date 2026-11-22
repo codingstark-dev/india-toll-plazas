@@ -305,7 +305,7 @@ id,name,state,district,highway,url
 101216,Humanyupur,Haryana,Rohtak,,https://raahguide.com/toll/humanyupur-toll-plaza/
 101218,Issapur Kheri,Haryana,Sonipat,NH-352A,https://raahguide.com/toll/issapur-kheri-toll-plaza/
 5757,Jakhauli,Haryana,Sonipat,,https://raahguide.com/toll/jakhauli-toll-plaza/
-5643,Jalouli,Haryana,Yamunanagar,NH-73,https://raahguide.com/toll/jalouli-toll-plaza/
+5643,Jalouli,Haryana,Panchkula,NH-73,https://raahguide.com/toll/jalouli-toll-plaza/
 101157,Jamni,Haryana,Jind,NH-152D,https://raahguide.com/toll/jamni-toll-plaza/
 100779,Jat Guwana,Haryana,Mahendragarh,NH-152D,https://raahguide.com/toll/jat-guwana-toll-plaza/
 5894,Jharothi,Haryana,Sonipat,NH-334B,https://raahguide.com/toll/jharothi-toll-plaza/
@@ -412,7 +412,7 @@ id,name,state,district,highway,url
 101244,Hedaginabele,Karnataka,Kolar,,https://raahguide.com/toll/hedaginabele-toll-plaza/
 5718,Hejamadi,Karnataka,Udupi,NH-66,https://raahguide.com/toll/hejamadi-toll-plaza/
 6,Hirebagewadi,Karnataka,Belgaum,NH-48,https://raahguide.com/toll/hirebagewadi-toll-plaza/
-5890,Hirehalli,Karnataka,,NH-150A,https://raahguide.com/toll/hirehalli-toll-plaza/
+5890,Hirehalli,Karnataka,Chitradurga,NH-150A,https://raahguide.com/toll/hirehalli-toll-plaza/
 379,Hitnal,Karnataka,Koppal,NH-50,https://raahguide.com/toll/hitnal-toll-plaza/
 5632,Holegadde,Karnataka,Uttara Kannada,NH-66,https://raahguide.com/toll/holegadde-toll-plaza/
 186,Hoskote,Karnataka,Bangalore Rural,NH-75,https://raahguide.com/toll/hoskote-toll-plaza/
@@ -430,7 +430,7 @@ id,name,state,district,highway,url
 188,Kirisave,Karnataka,Mandya,NH-75,https://raahguide.com/toll/kirisave-toll-plaza/
 9,Kognoli,Karnataka,Belgaum,NH-48,https://raahguide.com/toll/kognoli-toll-plaza/
 101242,Krishnarajapura,Karnataka,Kolar,,https://raahguide.com/toll/krishnarajapura-toll-plaza/
-260,Laxmannath,Karnataka,Bangalore,NH-16,https://raahguide.com/toll/laxmannath-toll-plaza/
+260,Laxmannath,Odisha,Baleshwar,NH-16,https://raahguide.com/toll/laxmannath-toll-plaza/
 101148,Linglapura,Karnataka,Chikmagalur,NH-73,https://raahguide.com/toll/linglapura-toll-plaza/
 4512,Mangalgi,Karnataka,Bidar,NH-65,https://raahguide.com/toll/mangalgi-toll-plaza/
 101219,Mulawad,Karnataka,Bijapur,NH-52,https://raahguide.com/toll/mulawad-toll-plaza/
@@ -440,7 +440,7 @@ id,name,state,district,highway,url
 5884,Nalavadi,Karnataka,Dharwad,NH-67,https://raahguide.com/toll/nalavadi-toll-plaza/
 101104,Nalluru Devanahalli,Karnataka,Bangalore Rural,NH-648,https://raahguide.com/toll/nalluru-devanahalli-karnataka-toll-plaza/
 321,Narendra,Karnataka,Dharwad,NH-48,https://raahguide.com/toll/narendra-toll-plaza/
-313,Neelamangala - Tumkur /Kulumepalya,Karnataka,Bangalore Rural,NH-844,https://raahguide.com/toll/neelamangala-tumkur-kulumepalya-toll-plaza/
+313,Neelamangala - Tumkur /Kulumepalya,Karnataka,Bangalore Rural,NH-48,https://raahguide.com/toll/neelamangala-tumkur-kulumepalya-toll-plaza/
 100042,Nelamangala,Karnataka,Bangalore Rural,NH-48,https://raahguide.com/toll/nelamangala-toll-plaza/
 5975,Rajatadripura,Karnataka,Tumkur,NH-73,https://raahguide.com/toll/rajatadripura-toll-plaza/
 101250,Rampura,Karnataka,Bijapur,NH-548B,https://raahguide.com/toll/rampura-karnataka-toll-plaza/
@@ -480,7 +480,7 @@ id,name,state,district,highway,url
 5793,Bagwada,Madhya Pradesh,Sehore,NH-46,https://raahguide.com/toll/bagwada-toll-plaza/
 6784,Baharagaon,Madhya Pradesh,Harda,NH-53,https://raahguide.com/toll/baharagaon-toll-plaza/
 5628,Bahoripar,Madhya Pradesh,Jabalpur,NH-34,https://raahguide.com/toll/bahoripar-toll-plaza/
-266,Bakoli,Madhya Pradesh,Damoh,NH-26,https://raahguide.com/toll/bakoli-toll-plaza/
+266,Bakoli,Madhya Pradesh,Narsimhapur,NH-26,https://raahguide.com/toll/bakoli-toll-plaza/
 360,Barahi,Madhya Pradesh,Bhind,NH-92,https://raahguide.com/toll/barahi-toll-plaza/
 358,Baretha,Madhya Pradesh,Gwalior,NH-92,https://raahguide.com/toll/baretha-toll-plaza/
 101279,Barkheda Barod,Madhya Pradesh,Shajapur,NH-752D,https://raahguide.com/toll/barkheda-barod-toll-plaza/
@@ -509,7 +509,7 @@ id,name,state,district,highway,url
 6790,Idtl B,Madhya Pradesh,Indore,NH-03,https://raahguide.com/toll/idtl-b-toll-plaza/
 245,Indore Dewas,Madhya Pradesh,Dewas,NH-52,https://raahguide.com/toll/indore-dewas-madhya-pradesh-toll-plaza/
 35,Indore Dewas,Madhya Pradesh,Indore,NH-52,https://raahguide.com/toll/indore-dewas-35-toll-plaza/
-403,Jaitpur,Madhya Pradesh,Seoni,NH-547,https://raahguide.com/toll/jaitpur-toll-plaza/
+403,Jaitpur,Madhya Pradesh,Narsimhapur,NH-547,https://raahguide.com/toll/jaitpur-toll-plaza/
 100850,Jhiriya,Madhya Pradesh,Rewa,NH-27,https://raahguide.com/toll/jhiriya-toll-plaza/
 4537,Jogipura,Madhya Pradesh,Guna,NH-46,https://raahguide.com/toll/jogipura-toll-plaza/
 100848,Jognihai,Madhya Pradesh,Rewa,NH-7,https://raahguide.com/toll/jognihai-toll-plaza/
@@ -727,7 +727,7 @@ id,name,state,district,highway,url
 6753,Kadaligarh,Odisha,Sambalpur,NH-153B,https://raahguide.com/toll/kadaligarh-toll-plaza/
 5877,Kandra,Odisha,Kendujhar,NH-520,https://raahguide.com/toll/kandra-toll-plaza/
 101155,Khairamunda,Odisha,Dhenkanal,NH-53,https://raahguide.com/toll/khairamunda-toll-plaza/
-5704,Khamar,Odisha,Cuttack,NH-149,https://raahguide.com/toll/khamar-toll-plaza/
+5704,Khamar,Odisha,Anugul,NH-149,https://raahguide.com/toll/khamar-toll-plaza/
 4497,Khantaghar,Odisha,Kendujhar,NH-20,https://raahguide.com/toll/khantaghar-toll-plaza/
 5857,Khireitangiri,Odisha,Kendujhar,NH-49,https://raahguide.com/toll/khireitangiri-toll-plaza/
 172,Manguli,Odisha,Cuttack,NH-16,https://raahguide.com/toll/manguli-toll-plaza/
@@ -779,7 +779,7 @@ id,name,state,district,highway,url
 5989,Karahewala,Punjab,Firozpur,NH-703,https://raahguide.com/toll/karahewala-toll-plaza/
 101136,Khuian Sarvar Plaza,Punjab,Firozpur,NH-62,https://raahguide.com/toll/khuian-sarvar-plaza-toll-plaza/
 5749,Kot Karor,Punjab,Firozpur,NH-54,https://raahguide.com/toll/kot-karor-toll-plaza/
-133,Kurali,Punjab,Sahibzada Ajit Singh Nagar,NH-205,https://raahguide.com/toll/kurali-toll-plaza/
+133,Kurali,Punjab,Rupnagar,NH-205,https://raahguide.com/toll/kurali-toll-plaza/
 157,Ladhowal,Punjab,Ludhiana,NH-44,https://raahguide.com/toll/ladhowal-toll-plaza/
 413,Ladpalwan,Punjab,Gurdaspur,NH-54,https://raahguide.com/toll/ladpalwan-toll-plaza/
 4560,Leherabega,Punjab,Bathinda,NH-7,https://raahguide.com/toll/leherabega-toll-plaza/
@@ -788,9 +788,9 @@ id,name,state,district,highway,url
 5929,Mannan,Punjab,Tarn Taran,NH-354,https://raahguide.com/toll/mannan-toll-plaza/
 6700,Moura,Punjab,Rupnagar,NH-205,https://raahguide.com/toll/moura-toll-plaza/
 153,Nijjarpura,Punjab,Amritsar,NH-3,https://raahguide.com/toll/nijjarpura-toll-plaza/
-4561,Paind,Punjab,Barnala,NH-52,https://raahguide.com/toll/paind-toll-plaza/
+4561,Paind,Punjab,Patiala,NH-52,https://raahguide.com/toll/paind-toll-plaza/
 101286,Pathrala,Punjab,Bathinda,NH-54,https://raahguide.com/toll/pathrala-toll-plaza/
-5746,Saini Majra,Punjab,Patiala,NH-152,https://raahguide.com/toll/saini-majra-toll-plaza/
+5746,Saini Majra,Haryana,Ambala,NH-152,https://raahguide.com/toll/saini-majra-toll-plaza/
 156,Sambhu,Punjab,Patiala,NH-44,https://raahguide.com/toll/sambhu-toll-plaza/
 100774,Sheikhpura,Punjab,Bathinda,NH-254,https://raahguide.com/toll/sheikhpura-toll-plaza/
 6824,Shergarh,Punjab,Muktsar,NH-54,https://raahguide.com/toll/shergarh-toll-plaza/
@@ -834,14 +834,14 @@ id,name,state,district,highway,url
 101077,Dadal,Rajasthan,Jalor,NH-754K,https://raahguide.com/toll/dadal-toll-plaza/
 6781,Dakan Kotra,Rajasthan,Udaipur,NH-75,https://raahguide.com/toll/dakan-kotra-toll-plaza/
 6807,Dangiyawas,Rajasthan,Jodhpur,NH-125A,https://raahguide.com/toll/dangiyawas-toll-plaza/
-215,Daulatpura,Rajasthan,Jaipur,NH-552,https://raahguide.com/toll/daulatpura-toll-plaza/
+215,Daulatpura,Rajasthan,Jaipur,NH-48,https://raahguide.com/toll/daulatpura-toll-plaza/
 6711,Deogarh,Rajasthan,Jodhpur,NH-754A,https://raahguide.com/toll/deogarh-toll-plaza/
 101146,Deora TP 21,Rajasthan,Jalor,NH-754A,https://raahguide.com/toll/deora-tp-21-toll-plaza/
 6802,Deshnok,Rajasthan,Bikaner,NH-754A,https://raahguide.com/toll/deshnok-toll-plaza/
 4482,Dhadhar,Rajasthan,Churu,NH-52,https://raahguide.com/toll/dhadhar-toll-plaza/
 15,Dhaneshwar,Rajasthan,Bundi,NH-27,https://raahguide.com/toll/dhaneshwar-toll-plaza/
 6774,Dhulepura,Rajasthan,Bhilwara,NH-158,https://raahguide.com/toll/dhulepura-toll-plaza/
-4510,Doli,Rajasthan,Barmer,NH-161A,https://raahguide.com/toll/doli-toll-plaza/
+4510,Doli,Rajasthan,Barmer,NH-112,https://raahguide.com/toll/doli-toll-plaza/
 5690,Doongri,Rajasthan,Jalor,NH-925A,https://raahguide.com/toll/doongri-toll-plaza/
 6663,Dungarpur Fee Plaza,Rajasthan,Dausa,NH-148,https://raahguide.com/toll/dungarpur-fee-plaza-toll-plaza/
 16,Fatehpur,Rajasthan,Baran,NH-27,https://raahguide.com/toll/fatehpur-toll-plaza/
@@ -871,7 +871,7 @@ id,name,state,district,highway,url
 6853,Karadiya,Rajasthan,Kota,NH-27,https://raahguide.com/toll/karadiya-toll-plaza/
 5991,Karel,Rajasthan,Udaipur,NH-58E,https://raahguide.com/toll/karel-toll-plaza/
 5922,Kathuwas,Rajasthan,Alwar,NH-11,https://raahguide.com/toll/kathuwas-toll-plaza/
-5731,Khachrol,Rajasthan,Bharatpur,NH-758,https://raahguide.com/toll/khachrol-toll-plaza/
+5731,Khachrol,Rajasthan,Bhilwara,NH-758,https://raahguide.com/toll/khachrol-toll-plaza/
 136,Khandi Obari,Rajasthan,Udaipur,NH-48,https://raahguide.com/toll/khandi-obari-toll-plaza/
 101195,Khara,Rajasthan,Bikaner,NH-62,https://raahguide.com/toll/khara-toll-plaza/
 135,Khedi,Rajasthan,Ajmer,NH-48,https://raahguide.com/toll/khedi-rajasthan-toll-plaza/
@@ -880,7 +880,7 @@ id,name,state,district,highway,url
 5685,Khuiyala,Rajasthan,Jaisalmer,NH-70,https://raahguide.com/toll/khuiyala-toll-plaza/
 101186,Khurikhud,Rajasthan,Dausa,NH-148,https://raahguide.com/toll/khurikhud-toll-plaza/
 124,Kishangarh,Rajasthan,Ajmer,NH-48,https://raahguide.com/toll/kishangarh-toll-plaza/
-456,Kishorpura,Rajasthan,Kota,NH-52,https://raahguide.com/toll/kishorpura-toll-plaza/
+456,Kishorpura,Rajasthan,Bundi,NH-52,https://raahguide.com/toll/kishorpura-toll-plaza/
 489,Kondar,Rajasthan,Karauli,NH-11B,https://raahguide.com/toll/kondar-toll-plaza/
 101212,Kusthala,Rajasthan,Tonk,,https://raahguide.com/toll/kusthala-toll-plaza/
 6850,Laban,Rajasthan,Bundi,,https://raahguide.com/toll/laban-toll-plaza/
@@ -923,7 +923,7 @@ id,name,state,district,highway,url
 478,Nimbaniya Ki Dhani,Rajasthan,Barmer,NH-25,https://raahguide.com/toll/nimbaniya-ki-dhani-toll-plaza/
 5726,Nimbasar,Rajasthan,Barmer,NH-68,https://raahguide.com/toll/nimbasar-toll-plaza/
 4551,Nimbi Jodha,Rajasthan,Nagaur,NH-58,https://raahguide.com/toll/nimbi-jodha-toll-plaza/
-4573,Nokhra,Rajasthan,Jodhpur,NH-11,https://raahguide.com/toll/nokhra-toll-plaza/
+4573,Nokhra,Rajasthan,Bikaner,NH-11,https://raahguide.com/toll/nokhra-toll-plaza/
 6801,Norangdesar,Rajasthan,Bikaner,NH-754A,https://raahguide.com/toll/norangdesar-toll-plaza/
 100858,Ochadi,Rajasthan,Chittaurgarh,NH-79,https://raahguide.com/toll/ochadi-toll-plaza/
 101163,Padla Hadliya Plaza,Rajasthan,Dungarpur,NH-927A,https://raahguide.com/toll/padla-hadliya-plaza-toll-plaza/
@@ -964,10 +964,10 @@ id,name,state,district,highway,url
 184,Sonwa,Rajasthan,Tonk,NH-52,https://raahguide.com/toll/sonwa-toll-plaza/
 101182,Sundarpura,Rajasthan,Jaipur,,https://raahguide.com/toll/sundarpura-toll-plaza/
 5682,Sundra,Rajasthan,Barmer,NH-70,https://raahguide.com/toll/sundra-toll-plaza/
-1477,Tamdoli,Rajasthan,Nagaur,NH-112,https://raahguide.com/toll/tamdoli-toll-plaza/
+1477,Tamdoli,Rajasthan,Nagaur,NH-458,https://raahguide.com/toll/tamdoli-toll-plaza/
 5866,Tankla,Rajasthan,Nagaur,NH-62,https://raahguide.com/toll/tankla-toll-plaza/
 129,Tatiyawas,Rajasthan,Jaipur,NH-11,https://raahguide.com/toll/tatiyawas-toll-plaza/
-5874,Thakri,Rajasthan,Ganganagar,NH-06,https://raahguide.com/toll/thakri-toll-plaza/
+5874,Thakri,Rajasthan,Ganganagar,NH-911,https://raahguide.com/toll/thakri-toll-plaza/
 182,Thikariya,Rajasthan,Jaipur,NH-48,https://raahguide.com/toll/thikariya-toll-plaza/
 5911,Thirpali Bari,Rajasthan,Churu,NH-709,https://raahguide.com/toll/thirpali-bari-toll-plaza/
 100861,Tidiayasar,Rajasthan,Churu,NH-11,https://raahguide.com/toll/tidiayasar-toll-plaza/
@@ -1113,12 +1113,12 @@ id,name,state,district,highway,url
 4611,Aksada,Uttar Pradesh,Basti,NH-28,https://raahguide.com/toll/aksada-toll-plaza/
 6778,Akwabad,Uttar Pradesh,Unnao,NH-31,https://raahguide.com/toll/akwabad-toll-plaza/
 409,Aliyapur,Uttar Pradesh,Kanpur Nagar,NH-34,https://raahguide.com/toll/aliyapur-toll-plaza/
-4602,Amdi,Uttar Pradesh,Unnao,NH-28,https://raahguide.com/toll/amdi-toll-plaza/
+4602,Amdi,Uttar Pradesh,Azamgarh,NH-28,https://raahguide.com/toll/amdi-toll-plaza/
 100772,Amipur Baleni,Uttar Pradesh,Baghpat,NH-334B,https://raahguide.com/toll/amipur-baleni-toll-plaza/
 6780,Amora Moiddinpur,Uttar Pradesh,Azamgarh,NH-28,https://raahguide.com/toll/amora-moiddinpur-toll-plaza/
 44,Anantram,Uttar Pradesh,Auraiya,NH-19,https://raahguide.com/toll/anantram-toll-plaza/
 5897,Andhiyari,Uttar Pradesh,Allahabad,NH-30,https://raahguide.com/toll/andhiyari-toll-plaza/
-4590,Asroga,Uttar Pradesh,Rae Bareli,NH-56,https://raahguide.com/toll/asroga-toll-plaza/
+4590,Asroga,Uttar Pradesh,Sultanpur,NH-56,https://raahguide.com/toll/asroga-toll-plaza/
 5860,Atraila Shiv Ghulam,Uttar Pradesh,Mirzapur,NH-7,https://raahguide.com/toll/atraila-shiv-ghulam-toll-plaza/
 394,Babina,Uttar Pradesh,Jhansi,NH-44,https://raahguide.com/toll/babina-toll-plaza/
 101170,Badagaon,Uttar Pradesh,Baghpat,,https://raahguide.com/toll/badagaon-toll-plaza/
@@ -1152,7 +1152,7 @@ id,name,state,district,highway,url
 40,Daffi,Uttar Pradesh,Varanasi,NH-2,https://raahguide.com/toll/daffi-toll-plaza/
 405,Dakhina Sekhpur,Uttar Pradesh,Lucknow,NH-24B,https://raahguide.com/toll/dakhina-sekhpur-toll-plaza/
 36,Dasna,Uttar Pradesh,Ghaziabad,NH-9,https://raahguide.com/toll/dasna-uttar-pradesh-toll-plaza/
-5762,Dasna,Uttar Pradesh,Ghaziabad,NH-139,https://raahguide.com/toll/dasna-5762-toll-plaza/
+5762,Dasna,Uttar Pradesh,Ghaziabad,,https://raahguide.com/toll/dasna-5762-toll-plaza/
 101139,Derhi,Uttar Pradesh,Varanasi,NH-28,https://raahguide.com/toll/derhi-toll-plaza/
 101130,DME 52 Plaza,Uttar Pradesh,Ghaziabad,NH-9,https://raahguide.com/toll/dme-52-plaza-toll-plaza/
 101132,DME Mehrauli Plaza,Uttar Pradesh,Ghaziabad,NH-9,https://raahguide.com/toll/dme-mehrauli-plaza-toll-plaza/
